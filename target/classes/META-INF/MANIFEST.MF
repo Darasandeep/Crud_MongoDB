@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sdara
+Build-Jdk: 10.0.1
+Implementation-Title: SpringBoot_mongo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.exam.sandy
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Dbboot/
+Created-By: Maven Integration for Eclipse
+
